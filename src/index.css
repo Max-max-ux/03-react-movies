@@ -133,9 +133,3 @@ header {
     padding: 0.5em 0;
   }
 }
-
-@media (max-width: 400px) {
-  body {
-    font-size: 14px;
-  }
-}
